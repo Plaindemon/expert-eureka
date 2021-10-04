@@ -4,6 +4,7 @@
 ## URL
 https://plaindemon.github.io/expert-eureka/
 ## Screenshot
+<img width="676" alt="pwgenerator" src="https://user-images.githubusercontent.com/89330268/135791128-6143c92c-d27c-472e-bc25-54794db7a03b.png">
 
 ## Instructions
 
