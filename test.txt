@@ -156,6 +156,41 @@ function writePassword() {
 // // }
 // // randomSymbols([1]);
 // console.log(randomSymbols())
+// // change most of the data to be inout into objects like
+// // let password = {
+//   numbers: "",
+//   length: "",
+//   special characters: "",
+// }
+
+// // console.log(capUppercase);
+
+
+// // // Get references to the #generate element in the html doc in the card-footer class 
+// // var generateBtn = document.querySelector("#generate");
+
+
+
+// 
+
+// }
+// // Write password to the #password input
+// function writePassword() {
+//   // the variable password is linked to the textarea tag to generate a new password 
+//   var password = generatePassword();
+//       //assign a value to the 
+//   var passwordText = document.querySelector("#password");
+
+//   generatePassword = Math.random();
+//   passwordText.value = password;
+//   console.log(generatePassword);
+  
+// }
+
+// // Add event listener to generate button- this one below using the click method to use the function writePassword to generate the password when the button is clicked
+// generateBtn.addEventListener("click", writePassword);
+
+// // console.log(password);
 
 // // ---------------------------------- OLD CODE FROM FIRST ATTEMPT COMMENT OUT AND DELETE LATER ----------------------------------- //////////////
 // function generatePassword(){
@@ -267,6 +302,7 @@ function writePassword() {
 //   return Math.floor(Math.random() * (max - min + 1) + min);
 // }
 // // function successfully calls random number between 0 and 9
+<<<<<<< HEAD:Develop/script.js
 // console.log(getRandomIntInclusive());
 
 // // change most of the data to be inout into objects like
@@ -283,3 +319,6 @@ function writePassword() {
 //
 
 // }
+=======
+// console.log(getRandomIntInclusive());
+>>>>>>> b3a46a3655e1640d81059343368a335049e8c5a5:test.txt
